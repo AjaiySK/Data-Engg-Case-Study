@@ -1,0 +1,3 @@
+ad_id,click_time,conversion_time,user_id
+1,2023-01-01T12:01:00Z,2023-01-01T12:02:00Z,user_1
+2,2023-01-01T12:06:00Z,2023-01-01T12:07:00Z,user_2

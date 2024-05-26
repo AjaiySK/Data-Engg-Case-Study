@@ -1,0 +1,12 @@
+[
+    {
+        "request_id": "some_request_id_1",
+        "timestamp": "2024-05-26T10:00:00Z",
+        "user_id": "some_user_id_1"
+    },
+    {
+        "request_id": "some_request_id_2",
+        "timestamp": "2024-05-26T11:30:00Z",
+        "user_id": "some_user_id_2"
+    }
+]
